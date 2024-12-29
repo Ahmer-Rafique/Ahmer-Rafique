@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WebDevelopment](e-commerece-one.vercel.app)
 
-- 🌱 I’m currently learning **Python&Docker**
+- 🌱 I’m currently learning **Python& Denerative AI &GenticAi**
 
 - 👯 I’m looking to collaborate on **GenAi**
 
